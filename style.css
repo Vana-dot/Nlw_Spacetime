@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #121215;
+  color: #eaeaea;
+}
+.memory small {
+  color: #bebebf;
+  font-size: 12px;
+}
+.memory h1 {
+  font-size: 32px;
+}
+.memory img {
+  width: 100%;
+}
