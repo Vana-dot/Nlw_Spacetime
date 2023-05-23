@@ -6,6 +6,16 @@
 body {
   background-color: #121215;
   color: #eaeaea;
+  font-family: "Roboto", sans-serif;
+}
+nav {
+  padding: 64px;
+}
+.memory {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  text-decoration: none;
 }
 .memory small {
   color: #bebebf;
@@ -13,7 +23,16 @@ body {
 }
 .memory h1 {
   font-size: 32px;
+  color: #eaeaea;
 }
 .memory img {
   width: 100%;
+  height: 280px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+.memory p {
+  font-size: 18px;
+  color: #bebebf;
+  line-height: 28px;
 }
