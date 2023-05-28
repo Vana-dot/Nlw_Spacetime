@@ -6,7 +6,7 @@ Projeto desenvolvido no evento NLW-Spacetime da Rocketseat
 
 ### Versão desktop
 
-![Versão mobile](./assets/Nlw spacetime-desk.png)
+![Versão mobile](assets/Nlw spacetime-desk.png)
 
 ### Versão mobile
 
